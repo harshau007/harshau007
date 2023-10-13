@@ -18,6 +18,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=harshau007&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+[![An image of @harshau007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshau007)](https://holopin.io/@harshau007)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=harshau007&icon=2&color=0)](https://visitcount.itsvg.in)
 
