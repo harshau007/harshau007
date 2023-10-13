@@ -97,9 +97,9 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/harsh-upadhyay00/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/Harshs_twt" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="50" width="50" /></a> 
-<a href="https://discord.gg/jyeKWPDs" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="discord" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/harsh-upadhyay00/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50" /></a>
+<a href="https://twitter.com/Harshs_twt" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="50" width="50" /></a> 
+<a href="https://discord.gg/jyeKWPDs" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="discord" height="50" width="50" /></a>
   
 </p>
 
