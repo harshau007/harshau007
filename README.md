@@ -1,7 +1,3 @@
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Harsh</h1></summary>
@@ -10,21 +6,20 @@
 
 
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+<img src="https://raw.githubusercontent.com/harshau007/harshau007/output/snake.svg" alt="Snake animation" />
 </div>
 
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Good Programmer Copy, Great Programmer Paste</h2></summary>
   </ul>
 </div>
 
 
-- 🔭 I’m currently working on **[TCET-Linux](https://github.com/tcet-opensource/tcet-linux)**
+- 🔭 I’m currently working on **[ALG](https://github.com/arch-linux-gui)**
 
-- 🌱 I’m currently learning **to put together Golang and JWT for Scalable Backend.**
+- 🌱 I’m currently learning **to build GUI Applications using Go and Wails Framework.**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
@@ -72,7 +67,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,github,githubactions,docker,express,go,java,js,mongodb,aws,nodejs,kubernetes,postman,py,react,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=linux,arch,git,github,githubactions,docker,express,nestjs,go,java,js,mongodb,postgres,aws,nodejs,kubernetes,postman,py,react,vscode&perline=14" />
   </a>
 </p>
 
@@ -86,7 +81,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/harsh-upadhyay00/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/Harshs_twt" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="50" width="50" /></a> 
+<a href="https://twitter.com/Harshs_twt" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="x" height="50" width="50" /></a> 
 <a href="https://discord.gg/jyeKWPDs" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="discord" height="50" width="50" /></a>
   
 </p>
